@@ -11,6 +11,7 @@
   "author": "Dante4rt",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.6.7",
     "dotenv": "^16.4.1",
     "puppeteer": "^21.9.0",
     "random-email": "^1.0.3",
